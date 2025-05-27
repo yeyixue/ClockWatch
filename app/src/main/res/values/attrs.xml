@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--存放自定义view对应的自定义属性-->
+    <declare-styleable name="ClockView">
+        <attr name="clockColor" format="color">
+        </attr>
+    </declare-styleable>
+</resources>

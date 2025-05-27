@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ClockWatch</string>
+    <string name="add">添加城市</string>
+    <string name="sound">AI</string>
+    <string name="settings">应用设置</string>
+
+    <!-- 时区选择相关 -->
+    <string name="select_timezone">选择时区</string>
+    <string name="search_timezones">搜索城市或国家...</string>
+
+    <!-- 常用时区（可按需扩展） -->
+    <string-array name="popular_timezones">
+        <item>Asia/Shanghai</item>
+        <item>America/New_York</item>
+        <item>Europe/London</item>
+        <item>Asia/Tokyo</item>
+        <item>Australia/Sydney</item>
+    </string-array>
+
+    <!-- 时区显示名称 -->
+    <string-array name="timezone_display_names">
+        <item>中国</item>
+        <item>美国</item>
+        <item>英国</item>
+        <item>日本</item>
+        <item>澳大利亚</item>
+    </string-array>
+</resources>
